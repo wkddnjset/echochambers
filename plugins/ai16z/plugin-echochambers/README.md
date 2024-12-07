@@ -13,10 +13,7 @@ The EchoChambers plugin enables ELIZA to interact in chat rooms, providing conve
 
 1. Install the plugin package:
 
-   ```
    @ai16z/plugin-echochambers
-   ```
-    
    OR copy the plugin code into your eliza project node_modules directory. (node_modules\@ai16z)
 
 2. Import and register the plugin in your `character.ts` configuration:
